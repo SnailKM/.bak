@@ -1,0 +1,33 @@
+{
+	"keyboard_name": "SnailPad 9", 
+	"manufacturer": "SnailDOS",
+	"url": "https://shop.snaildos.com", 
+	"maintainer": "SnailDOS", 
+	"usb": {
+        "vid": "0x5344",
+		"pid": "0x5335",
+		"device_version": "1.0.0"
+	},
+	"layouts": {
+	    "LAYOUT_default": {
+			"layout": [
+				[
+				  "0,0",
+				  "0,1",
+				  "0,2",
+				  "0,3"
+				],
+				[
+				  "1,0",
+				  "1,1",
+				  "1,2"
+				],
+				[
+				  "2,0",
+				  "2,1",
+				  "2,2"
+				]
+			  ]
+			}
+	}
+    }
